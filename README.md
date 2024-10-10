@@ -1,19 +1,22 @@
-# Hi 👋, I'm Shubham Pisal
+# Hi 👋, I'm Shubham Pisal.
 
 ### Software Engineer from India
 
 ### 🤓 About me:
 
-- 🔍 I’m looking for full time Software Developer/ Software Engineer roles.
+- 🔍 I’m looking for full-time software developer/software engineer roles.
+
 - 👨🏻‍💻 I’m currently learning **React, Spring Boot**.
+
 - 💬 Ask me about **React, Spring Boot**.
-- 📥 How to reach me **pisalshubham3@gmail.com**
+
+- 📥 How to reach me: **pisalshubham3@gmail.com**
 
 ### 🚀 Technical Skills:
 
 - Languages: Java, JavaScript.
-- Frameworks: React, Spring boot, Spring, Express(Worked during CDAC).
-- Web Technologies: Html, css.
+- Frameworks: React, Spring Boot, Spring, Express (worked during CDAC).
+- Web Technologies: Html, CSS.
 - Version control: Git, Github.
 - Build tools: Maven (Basic)
 - Test Frameworks: Cypress, JUnit.
