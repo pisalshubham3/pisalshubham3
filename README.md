@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Shubham Pisal
 
-<!--
-**pisalshubham3/pisalshubham3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer from India
 
-Here are some ideas to get you started:
+### 🤓 About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 I’m looking for full time Software Developer/ Software Engineer roles.
+- 👨🏻‍💻 I’m currently learning **React, Spring Boot**.
+- 💬 Ask me about **React, Spring Boot**.
+- 📥 How to reach me **pisalshubham3@gmail.com**
+
+### 🚀 Technical Skills:
+
+- Languages: Java, JavaScript.
+- Frameworks: React, Spring boot, Spring, Express(Worked during CDAC).
+- Web Technologies: Html, css.
+- Version control: Git, Github.
+- Build tools: Maven (Basic)
+- Test Frameworks: Cypress, JUnit.
+
+### 🤝 Connect with me:
+
+<p align="left">
+<a href="https://linkedin.com/in/pisalshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pisalshubham" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pisalshubham3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pisalshubham3" height="30" width="40" /></a>
+</p>
