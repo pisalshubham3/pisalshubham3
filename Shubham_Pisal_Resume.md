@@ -9,7 +9,7 @@
 ---
 **SKILLS**  
 **Programming Languages:** Java, JavaScript  
-**Libraries/Frameworks:** React, Spring Boot, Cypress, JUnit  
+**Libraries/Frameworks:** React, Spring Boot, Hibernate, Cypress, JUnit  
 **Tools / Platforms:** Git, Maven (Basic)  
 **Databases:** MySQL  
 
@@ -39,7 +39,7 @@
 - Automated 120 backlog tests by adding UI automation with **Cypress** and backend automation using a custom framework based on **JUnit**, reducing QE team effort for non-Epic regression testing by 80%.  
 - Contributing to ongoing improvements of the integration test framework by reducing test flakiness through the introduction of mocking between two different applications.  
 - Created a Selenium WebDriver update script to automatically update **Selenium WebDriver** on test servers, reducing the manual effort required to maintain infrastructure.  
-- Resolved UI bugs using React and jQuery to improve user experience and functionality.  
+- Resolved UI bugs using **React** and **jQuery** to improve user experience and functionality.  
 - Collaborated on 6 feature releases, working both independently and with teams in gathering requirements, creating detailed test plans, and automating test cases. 
 ---
 **Education:** 
